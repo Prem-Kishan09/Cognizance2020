@@ -50,6 +50,8 @@ When you think of like this stuff just cross like this because it's an absolutel
 
 It creates 3D Workspace and eases our work and makes our understanding clear of the environment we live in.
 
+Virtual reality therapy can also be used to treat people with mental issues by creating soothing environments and simulations. A lot of marines and soldiers have to cope with PTSD when they get back from battlefields. Virtual reality therapy can be used to treat them. They will be exposed to different battlefield scenarios to help them get over the stress and begin to lead a normal live.
+
 
 
 
