@@ -1,5 +1,7 @@
 # Cognizance2020.
 # Virtual Reality
+<!--Blockquote-->
+>Virtual reality was once the dream of science fiction. But the internet was also once a dream, and so were computers and smartphones. The future is coming.                                        {MARK ZUCKERBERG}
 Virtual Reality is considered to be one of the Excellent technologies the human race have ever had.The Virtual Reality has applications in many fields and is an awesome technology!!!
 
 So, Lets get started by uderstanding what actually virtual reality is;
@@ -50,7 +52,16 @@ When you think of like this stuff just cross like this because it's an absolutel
 
 It creates 3D Workspace and eases our work and makes our understanding clear of the environment we live in.
 
-Virtual reality therapy can also be used to treat people with mental issues by creating soothing environments and simulations. A lot of marines and soldiers have to cope with PTSD when they get back from battlefields. Virtual reality therapy can be used to treat them. They will be exposed to different battlefield scenarios to help them get over the stress and begin to lead a normal live.
+Virtual reality therapy can also be used to treat people with mental issues by creating soothing environments and simulations. A lot of marines and soldiers have to cope with PTSD when they get back from battlefields. Virtual reality therapy can be used to treat them. They will be exposed to different battlefield scenarios to help them get over the stress and begin to lead a normal live in.
+
+So V.R has applications useful for human beings and has a thrilling Interface that helps in development of 3D workspace.Day by day there are many changes taking place in the field of Virtual Reality and we can expect that by the next decade we can have a Fully Upgraded V.R technology.
+
+For references go through the link below....
+<!--Links-->
+[Virtual Reality](https://en.wikipedia.org/wiki/Virtual_reality)
+
+Let's sign off here.
+Thank You.......
 
 
 
