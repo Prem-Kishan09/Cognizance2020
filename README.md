@@ -42,6 +42,12 @@ In the gaming world SONY always has its own success path.From the each version o
 <!--Images-->   
 ![PS-4 Gaming Console](https://www.extremetech.com/wp-content/uploads/2014/02/PS4-VR-Helmet-640x353.jpg)
 
+Lets look into the impacts of Virtual Reality on the Society.
+<!--Strikethrough-->
+~~Many people think that Virtual Reality has a bad impact on humans physically and mentally~~!!!!
+
+When you think of like this stuff just cross like this because it's an absolutely false statement to be given.
+
 
 
 
